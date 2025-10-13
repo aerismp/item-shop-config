@@ -7,7 +7,7 @@ You are free to edit, modify, and redistribute the contents of the itemshop  fil
 
 Requirements:
 1. Retain this license file when sharing or redistributing.
-2. No warranty is provided. Use at your own risk.
-3. Credit is appreciated but not required.
+2. Credit will be given to the itemshop creator when possible.
+
 
 Once you've made the necessary updates, kindly submit a pull request for review.
