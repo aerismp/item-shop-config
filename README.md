@@ -1,6 +1,6 @@
 **Aeris Item Shop Configuration**
 
-Please update the `itemshop.json` file using the available outfits from  Season 9. For reference, you can browse the complete list of Season 9 outfits here: [ Season 9 Outfits](https://fortnite.gg/cosmetics?season=9).
+Please update the `itemshop.json` file using the available outfits from  Season 8. For reference, you can browse the complete list of Season 8 outfits here: [ Season 8 Outfits](https://fortnite.gg/cosmetics?season=8).
 
 
 You are free to edit, modify, and redistribute the contents of the itemshop  files.
